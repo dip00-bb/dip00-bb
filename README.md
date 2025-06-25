@@ -2,11 +2,7 @@
 <img src="https://scontent.fdac162-1.fna.fbcdn.net/v/t39.30808-6/512794412_685315944478626_7767837554979541716_n.png?_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=ZDNa5aDfGmUQ7kNvwEqNMfQ&_nc_oc=AdlubHkfPzkBy9tn1Ro5TbLhhd0yUbtuLo3n2R3CYa8UfgnmTjJcYufzeD7J_MMetcE&_nc_zt=23&_nc_ht=scontent.fdac162-1.fna&_nc_gid=t-TBMjexbZ-N2h6G0CyK_g&oh=00_AfOTVQhlrqLe4QKk6R5oes1rbjaTh55qBUojnQKHVdsfUg&oe=68616A9F" width="full" style="border-radius: 50%;" alt="Dip Chondo Profile Picture" /> 
 
 # 💫 About Me:
-👋 Hi, I'm Dip Chondo, a passionate Web Developer specializing in building modern, responsive web applications. Skilled in HTML, CSS, JavaScript, and experienced with the MERN Stack – MongoDB, Express.js, React.js, and Node.js.I enjoy turning ideas into real-world applications and continuously improving my skills through hands-on projects.
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dip-chondo-2b871b360) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MovieLover23667) 
+👋 Hi, I'm Dip Chondo, a passionate Web Developer specializing in building modern, responsive web applications. Skilled in HTML, CSS, JavaScript, and experienced with the MERN Stack – MongoDB, Express.js, React.js, and Node.js.I enjoy turning ideas into real-world applications and continuously improving my skills through hands-on projects. 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -21,6 +17,11 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dip-chondo-2b871b360) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MovieLover23667)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dip00-bb&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
