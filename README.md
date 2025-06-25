@@ -11,11 +11,11 @@ Skills:  REACT /MONGODB/EXPRESS/ NODE/ JS / HTML / CSS
 - 🌱 I’m currently learning REDUX TOOLKIT 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/dip00-bb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dip-chondo-2b871b360//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/MovieLover23667)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dip00-bb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dip-chondo-2b871b360//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MovieLover23667)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/dip00-bb)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dip00-bb)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/dip00-bb&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dip00-bb&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/dip00-bb)  
+![GitHub metrics](https://metrics.lecoq.io/dip00-bb)  
 
