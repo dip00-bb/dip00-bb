@@ -1,5 +1,5 @@
 
-<img src="[https://www.facebook.com/photo/?fbid=685315937811960&set=a.111356235207936](https://x.com/MovieLover23667/header_photo)" width="full" style="border-radius: 50%;" alt="Dip Chondo Profile Picture" /> 
+<img src="https://pbs.twimg.com/profile_banners/1882412696009908224/1750955213/1500x500" width="full" style="border-radius: 50%;" alt="Dip Chondo Profile Picture" /> 
 
 # 💫 About Me:
 👋 Hi, I'm Dip Chondo, a passionate Web Developer specializing in building modern, responsive web applications. Skilled in HTML, CSS, JavaScript, and experienced with the MERN Stack – MongoDB, Express.js, React.js, and Node.js.I enjoy turning ideas into real-world applications and continuously improving my skills through hands-on projects. 
