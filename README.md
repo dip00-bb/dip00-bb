@@ -4,6 +4,11 @@
 # 💫 About Me:
 👋 Hi, I'm Dip Chondo, a passionate Web Developer specializing in building modern, responsive web applications. Skilled in HTML, CSS, JavaScript, and experienced with the MERN Stack – MongoDB, Express.js, React.js, and Node.js.I enjoy turning ideas into real-world applications and continuously improving my skills through hands-on projects. 
 
+
+# Current Activities
+- I am exploring **Next.js**.  
+- I’m working on a **Type Script**.
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
