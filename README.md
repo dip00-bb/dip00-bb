@@ -25,7 +25,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=dip00-bb&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="200" width='100%' />
+  <img src="https://github-readme-stats.vercel.app/api?username=dip00-bb&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="200" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=dip00-bb&theme=dark&hide_border=false" height="200" />
   
 </div>
