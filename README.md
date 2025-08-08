@@ -23,10 +23,19 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dip-chondo-2b871b360) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MovieLover23667)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dip00-bb&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dip00-bb&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dip00-bb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=dip00-bb&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="200" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dip00-bb&theme=dark&hide_border=false" height="200" />
+  
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dip00-bb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200" />
+
+</div>
+
 
 ---
 
